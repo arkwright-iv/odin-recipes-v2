@@ -1,2 +1,3 @@
 # odin-recipes-v2
-My first project on The Odin Project curriculum!
+Basic demonstration of HTML knowledge by building a simple recipe web page.
+I am expected to have learned basic syntax, creating lists, headers, paragraphs and images.
